@@ -1,0 +1,8 @@
+==== เฉลี่ย 10-Fold ====
+Accuracy: 0.840 ± 0.043
+AUC: 0.709 ± 0.120
+Recall (PD): 0.183
+F1 (PD): 0.227
+Confusion Matrix sum:
+[[331  20]
+ [ 45  10]]
